@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @OmidRezaHjT
-- 👀 I’m interested in python
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: omidreza.hjt@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a computer engineering student passionate about software development and cybersecurity!
+<h1 align="center">Hi there, I'm OmidReza 👋</h1>
 
-<!---
-OmidRezaHjT/OmidRezaHjT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **Django projects**
+- 🌱 I’m learning **Django**
+- 💬 Ask me about **Python**
+- 📫 How to reach me: [omidreza.hjt@gmail.com](mailto:omidreza.hjt@gmail.com)
+
+### 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 📊 GitHub Stats:
+![Omid's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmidRezaHjT&show_icons=true&theme=dark)
