@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Computer Engineering Student
-- 🏗️ Currently learning Django
+- 🏗️ Currently learning Django(Advanced Level)
 - 🔍 Interested in Cybersecurity & DevOps
 - 🐍 Know Python
 - 📫 Reach me at: omidreza.hjt@gmail.com
