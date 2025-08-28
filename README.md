@@ -13,6 +13,7 @@
 ### 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Telegram Bot](https://img.shields.io/badge/telegram%20bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## 📊 GitHub Stats & Activity  
