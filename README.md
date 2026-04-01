@@ -4,9 +4,9 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Computer Engineering Student
-- 🏗️ Currently learning Network+
-- 🔍 Interested in Cybersecurity & DevOps
-- 🐍 Know Python and django(Basic Level
+- 🏗️ Currently learning CCNA
+- 🔍 Interested in Cybersecurity & CLOUD
+- 🐍 Know Python and django(Basic Level)
 - 📫 Reach me at: omidreza.hjt@gmail.com
 
 
