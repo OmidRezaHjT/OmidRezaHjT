@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Computer Engineering Student
-- 🏗️ Completed CCNA
+- 🏗️ Learning Network Automation with Python and Git/GitHub
 - 🔍 Interested in CLOUD(AWS) & DEVOPS
 - 🐍 Know Python and django(Basic Level)
 - 📫 Reach me at: omidreza.hjt@gmail.com
