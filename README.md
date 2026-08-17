@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Computer Engineering Student
-- 🏗️ Learning Network Automation with Python and Git/GitHub
+- 🏗️ Learning Docker
 - 🔍 Interested in CLOUD(AWS) & DEVOPS
 - 🐍 Know Python and django(Basic Level)
 - 📫 Reach me at: omidreza.hjt@gmail.com
