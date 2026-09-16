@@ -39,8 +39,6 @@ languages:
 
 <br>
 
-<div align="center"> <img src="https://ghchart.rshah.org/00E5FF/OmidRezaHjT" alt="OmidReza's contribution graph" width="90%"/> </div> <br> <div align="center">
-
 <div align="center">
 
 ### 📫 Let's Connect
